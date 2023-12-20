@@ -2,6 +2,9 @@
 My ML studies
 
 
+[Text recognition](TextRecognition/README.md)
+
+[Object detection](ObjectDetection/README.md)
 
 
 ## Pytorch Vs Tensorflow Vs Keras: The Differences You Should Know
@@ -34,4 +37,8 @@ TBD
 
 # [TensorFlow](https://www.tensorflow.org/)
 TDB
+
+
+## Links
+[TF for beginners](https://www.tensorflow.org/tutorials/quickstart/beginner)
 
