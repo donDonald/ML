@@ -2,9 +2,9 @@
 My ML studies
 
 
-[Text recognition](TextRecognition/README.md)
+[Text recognition](text_recognition/README.md)
 
-[Object detection](ObjectDetection/README.md)
+[Object detection](object_detection/README.md)
 
 
 ## Pytorch Vs Tensorflow Vs Keras: The Differences You Should Know
